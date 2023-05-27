@@ -1,4 +1,4 @@
-apiversio: v1
+apiversion: v1
 kind: Namespace
 metadata: 
   name: prod
